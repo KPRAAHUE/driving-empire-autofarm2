@@ -120,7 +120,7 @@ SecondSection1:addButton("Credits:")
 SecondSection1:addButton("alohabeach#3448 - scripter", function() setclipboard("alohabeach#3448") jailbreakNotify("Copied to clipboard.") end)
 SecondSection1:addButton("Dino#3523 - ui library", function() setclipboard("Dino#3523") jailbreakNotify("Copied to clipboard.") end)
 SecondSection1:addButton("Discord:")
-SecondSection1:addButton("https://dsc.gg/AlohaScripts", function() setclipboard("https://dsc.gg/AlohaScripts") jailbreakNotify("Copied to clipboard.") end)
+SecondSection1:addButton("https://dsc.gg/CarHub", function() setclipboard("https://dsc.gg/CarHub") jailbreakNotify("Copied to clipboard.") end)
 SecondSection2:addToggle(
     "Anti AFK",
     true,
